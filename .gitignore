@@ -1,6 +1,7 @@
 # Project specific
 
 flask/
+app.db
 
 ## Vim
 swap
