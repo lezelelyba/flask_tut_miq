@@ -2,6 +2,7 @@
 
 flask/
 app.db
+tmp/
 
 ## Vim
 swap
